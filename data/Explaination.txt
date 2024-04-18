@@ -1,0 +1,1 @@
+Each row of the dataset is filled with the contents of different resumes collected carefully.
